@@ -5,7 +5,7 @@ spring:
     config:
       server:
         git:
-          uri: file:///C:/Users/Haidranoid/IdeaProjects/spring-boot-microservices-v2/git-local-config-repository
+          uri: file:///C:/Users/Haidranoid/IdeaProjects/spring-boot-microservices-v1/git-local-config-repository
 
 server:
   port: 8888
